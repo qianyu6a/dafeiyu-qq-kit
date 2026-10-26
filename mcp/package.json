@@ -1,0 +1,11 @@
+{
+  "name": "dafeiyu-tools",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "大肥鱼 QQ 机器人专用的本地能力 MCP server：画图（ComfyUI）+ 说话（GPT-SoVITS）",
+  "main": "server.mjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0"
+  }
+}

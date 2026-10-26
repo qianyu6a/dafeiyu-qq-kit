@@ -1,0 +1,26 @@
+# 不要提交任何个人数据
+config.json
+state/
+logs/
+*.log
+
+# 依赖
+node_modules/
+__pycache__/
+*.pyc
+
+# 素材与模型（体积大且受协议限制，自己准备）
+images/
+out/
+models/
+loras/
+dataset/
+*.safetensors
+*.ckpt
+*.pth
+
+# 编辑器和系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
